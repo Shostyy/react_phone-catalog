@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "./static/css/main.7a6a3454.css",
+    "main.js": "./static/js/main.be318192.js",
+    "static/media/Mont-Regular.otf": "./static/media/Mont-Regular.1d26d89f7339866d3133.otf",
+    "static/media/Mont-SemiBold.otf": "./static/media/Mont-SemiBold.8979d71a3146ca1d761f.otf",
+    "static/media/Mont-Bold.otf": "./static/media/Mont-Bold.03c8c2f6127c1da0fc39.otf",
+    "static/media/cart.svg": "./static/media/cart.1962e42406793fa66f0d.svg",
+    "static/media/stroke.svg": "./static/media/stroke.7ad90633f19369ffb621.svg",
+    "static/media/favourites.svg": "./static/media/favourites.ae6669ec231b50c8f0fe.svg",
+    "static/media/logo.svg": "./static/media/logo.13ce922e1b9e8d8894f4.svg",
+    "static/media/home.svg": "./static/media/home.e110292ae2cf67d0baca.svg",
+    "static/media/search.svg": "./static/media/search.eb670dd9ac01a47e6e00.svg",
+    "static/media/heart.svg": "./static/media/heart.e06f68523386b982e85a.svg",
+    "static/media/close.svg": "./static/media/close.3ea864f59fecb8596c4b.svg",
+    "static/media/plus.svg": "./static/media/plus.dea157243cc9d361ac05.svg",
+    "static/media/close-nav.svg": "./static/media/close-nav.a6b9ffc5deeeb58064e7.svg",
+    "static/media/arrow.svg": "./static/media/arrow.98ff905da9db98653d9f.svg",
+    "static/media/arrow-down.svg": "./static/media/arrow-down.53e0b566008cdae4aa1a.svg",
+    "static/media/arrow-back.svg": "./static/media/arrow-back.74ad2c5e6f257a5f3a97.svg",
+    "static/media/arrow-left.svg": "./static/media/arrow-left.c0d01b22c02136a3c700.svg",
+    "static/media/open-nav.svg": "./static/media/open-nav.0f90e769fac029a6c4b7.svg",
+    "static/media/minus.svg": "./static/media/minus.cecb4be39afa7b933ec1.svg",
+    "index.html": "./index.html",
+    "main.7a6a3454.css.map": "./static/css/main.7a6a3454.css.map",
+    "main.be318192.js.map": "./static/js/main.be318192.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a6a3454.css",
+    "static/js/main.be318192.js"
+  ]
+}
